@@ -1,0 +1,15 @@
+{
+    "header": {
+      "home": "Acasă",
+      "about": "Despre",
+      "language_en": "Engleză",
+      "language_ro": "Română"
+    },
+    "home": {
+      "welcome": "Bine ați venit pe pagina principală"
+    },
+    "about": {
+      "info": "Aceasta este pagina Despre"
+    }
+  }
+  

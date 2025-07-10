@@ -1,0 +1,14 @@
+{
+    "header": {
+      "home": "Home",
+      "about": "About",
+      "language_en": "English",
+      "language_ro": "Romanian"
+    },
+    "home": {
+      "welcome": "Welcome to the Home page"
+    },
+    "about": {
+      "info": "This is the About page"
+    }
+  }
